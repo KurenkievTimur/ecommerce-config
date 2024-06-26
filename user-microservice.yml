@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+user-microservice:
+  message: "User microservice"
+  contactDetails:
+    name: "Kurenkiev Timur - Developer"
+    email: "kurenkievtimur@gmail.com"
+  onCallSupport:
+    - (999) 999-999

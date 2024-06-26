@@ -1,0 +1,5 @@
+build:
+  version: "2.0"
+
+product-microservice:
+  message: "Product microservice QA"
