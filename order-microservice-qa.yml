@@ -1,5 +1,0 @@
-build:
-  version: "2.0"
-
-product-microservice:
-  message: "Order microservice QA"
