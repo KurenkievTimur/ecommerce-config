@@ -1,5 +1,0 @@
-build:
-  version: "1.0"
-
-user-microservice:
-  message: "User microservice PRODUCTION"
