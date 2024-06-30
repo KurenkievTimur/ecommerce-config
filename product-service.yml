@@ -1,8 +1,8 @@
 build:
   version: "3.0"
 
-product-microservice:
-  message: "Product microservice"
+product-service:
+  message: "Product service"
   contactDetails:
     name: "Kurenkiev Timur - Developer"
     email: "kurenkievtimur@gmail.com"
