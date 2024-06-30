@@ -1,8 +1,8 @@
 build:
   version: "3.0"
 
-order-microservice:
-  message: "Order microservice"
+order-service:
+  message: "Order service"
   contactDetails:
     name: "Kurenkiev Timur - Developer"
     email: "kurenkievtimur@gmail.com"
