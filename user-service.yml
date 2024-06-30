@@ -1,8 +1,8 @@
 build:
   version: "3.0"
 
-user-microservice:
-  message: "User microservice default"
+user-service:
+  message: "User service default"
   contactDetails:
     name: "Kurenkiev Timur - Developer"
     email: "{cipher}782ff64b7eaf0bed6a4fab59cefba50a57de240e827081bbc64b3c8971bca89e"
